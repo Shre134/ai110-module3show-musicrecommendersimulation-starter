@@ -32,7 +32,7 @@ Up to +0.5 points for valence proximity, similar emotional feel
 Potential biases: Heavy genre weighting may cause the system to overlook better matches in similar genres, and the small catalog means some recommendations win by default rather than true fit.
 
 ---
-
+![sample music](image.png)
 ## Getting Started
 
 ### Setup
